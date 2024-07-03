@@ -51,12 +51,6 @@ If you encounter any issues or have any questions, you can refer to the followin
 
 - **Check for typos**: Verify that there are no typos in your code or commands.
 
-If you need further assistance, you can run the following command to get help:
-
-```sh
-node nft-collection.js --help
-```
-
 # Authors
 
 - Your Name - [@xpiyush2003](https://github.com/xpiyush2003)
