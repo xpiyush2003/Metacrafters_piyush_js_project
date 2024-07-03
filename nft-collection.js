@@ -1,4 +1,4 @@
-let NFT_ARRAY =[]; //array which will hold the
+let NFT_ARRAY =[];
 
 function mintnft(first_name,network,hair_colour,bling){       
     let NFT = {
